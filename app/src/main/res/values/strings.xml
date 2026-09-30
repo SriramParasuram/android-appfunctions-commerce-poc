@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Commerce Agent</string>
+    <string name="app_functions_display_description">Shop for devices through agent-enabled Commerce AppFunctions.</string>
+</resources>

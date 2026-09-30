@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppFunctionAppMetadata xmlns:appfn="http://schemas.android.com/apk/androidx.appfunctions"
+    appfn:description="This proof of concept exposes commerce device shopping through Android AppFunctions.
+    Operational Patterns:
+    - Use shopForDevices to start device shopping, search devices, or refine shopping preferences.
+    - Use selectDevice to commit to a product already shown in the shopping session.
+    - Use openSelectedDevice to open the Commerce Agent app for the selected device.
+    Constraints:
+    - Catalogue results come from the companion commerce backend. Session state is owned by that backend."
+    appfn:displayDescription="@string/app_functions_display_description" />
